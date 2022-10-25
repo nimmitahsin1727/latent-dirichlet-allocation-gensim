@@ -6,7 +6,7 @@ Latent dirichlet allocation model from GENSIM library.
 Here, my main goal is to use my previously created preprocessed dataset [20-news-dataset-pre-processing](https://github.com/nimmitahsin1727/20-news-dataset-pre-processing) for GENSIM's LDA model [gensim.models.ldamulticore](https://radimrehurek.com/gensim/models/ldamulticore.html). And see the outcome.
 
 **Outcome:**
-```json
+```js
 [(0,
   '0.009*"line" + 0.007*"write" + 0.006*"right" + 0.005*"use" + 0.004*"make" + '
   '0.004*"like" + 0.004*"say" + 0.004*"know" + 0.004*"point" + 0.004*"file"'),
